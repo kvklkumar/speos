@@ -1,1 +1,2 @@
 this is a example file for checing the git review command.
+this is a sample change to check gerrit functions.
